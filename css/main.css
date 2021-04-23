@@ -61,8 +61,8 @@ body {
 }
 
 .nav a:focus {
-  outline: 0.15rem solid #bea59b;
-  outline-offset: 0.2rem;
+  outline: .15rem solid #bea59b;
+  outline-offset: .2rem;
 }
 
 .banner {
@@ -110,8 +110,8 @@ body {
 }
 
 .banner a:focus {
-  outline: 0.15rem solid #bea59b;
-  outline-offset: 0.2rem;
+  outline: .15rem solid #bea59b;
+  outline-offset: .2rem;
 }
 
 .ship {
@@ -155,14 +155,14 @@ body {
   text-decoration: none;
 }
 
-.card a:hover{
+.card a:hover {
   color: #fff;
   background-color: #522806;
 }
 
 .card a:focus {
-  outline: 0.15rem solid #bea59b;
-  outline-offset: 0.2rem;
+  outline: .15rem solid #bea59b;
+  outline-offset: .2rem;
 }
 
 .footer {
